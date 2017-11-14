@@ -1,5 +1,7 @@
 hello world
 this is the second line in my file
 this is the third one
-and this is the forth
+let me edit this forht line
+and adding this sixth line
 this is enough let's test now
+yeah now we can test
