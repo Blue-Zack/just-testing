@@ -1,7 +1,8 @@
 hello world
 this is the second line in my file
 this is the third one
-let me edit this forht line
+let me edit this forth line "stupid"
 and adding this sixth line
 this is enough let's test now
 yeah now we can test
+heey i did a new branch, look hw cool it that, i'm going to make some edits
