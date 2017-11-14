@@ -6,4 +6,4 @@ and adding this sixth line
 this is enough let's test now
 yeah now we can test
 heey i did a new branch, look hw cool it that, i'm going to make some edits
-and now with more test things and i branch called "another branch" cool ? right ? 
+and now with more test things and i branch called "another branch" cool ? right ?  :D
